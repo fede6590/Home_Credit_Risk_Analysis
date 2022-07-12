@@ -1,4 +1,4 @@
-# Anyone AI - Project III
+# AnyoneAI - Project III
 ## Home Credit Default Risk
 
 You've been learning a lot about Machine Learning Algorithms, now we you're gonna be asked to put it all together.
