@@ -1,14 +1,8 @@
-# AnyoneAI - Project III
-## Home Credit Default Risk
+# Home Credit Default Risk (Kaggle)
 
-You've been learning a lot about Machine Learning Algorithms, now we you're gonna be asked to put it all together.
+Complete pipeline to preprocess the data, train the model and then predict values for the Home Credit Default Risk Kaggle competition.
 
-You will create a complete pipeline to preprocess the data, train your model and then predict values for the Home Credit Default Risk Kaggle competition.
-
-## Introduction
-Kaggle is a web platform and community for data scientist and machine learning engineers where competetitions and datasets are regularly published.
-
-This particular competition is a binary Classification task: we want to predict whether the person applying for a home credit will be able to repay its debt or not. The competition finished 4 years ago, so you will find a lot of blog posts and code written for it, we encourage you to read everything you can about it.
+This particular competition is a binary Classification task: we want to predict whether the person applying for a home credit will be able to repay its debt or not.
 
 The dataset is composed of multiple files with different information about loands taken. In this project we're going to exclusively work with the main files: application_train.csv and application_test.csv.
 
